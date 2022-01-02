@@ -1,5 +1,5 @@
 import * as Vue from "../../vendors/vue.esm-browser.prod.js";
-import { observer } from "../mixins/_observer.js";
+import { observer } from "../mixins/observer.js";
 export const Home = Vue.createApp({
     delimiters: ["[[", "]]"],
     data() {
