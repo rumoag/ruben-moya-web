@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: http://rubenmoya.com/sitemap.xml
